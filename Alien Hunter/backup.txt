@@ -1,0 +1,34 @@
+#include <SDL.h>
+#include <SDL_opengl.h>
+#include <SDL_image.h>
+
+int main(int argc, char* args[]){
+
+    SDL_Init(SDL_INIT_EVERYTHING);
+
+    SDL_Surface * tela;
+    tela = SDL_SetVideoMode(600, 400, 32, SDL_SWSURFACE);
+
+    SDL_WM_SetCaption("ASD", NULL);
+
+    bool executando = true;
+
+    while(executando){
+
+        SDL_Event evento;
+        while(SDL_PollEvent(&evento)){
+            switch(evento.type){
+                case SDL_QUIT:
+                    executando = false;
+                    break;
+
+            }
+        }
+    }
+
+    SDL_FreeSurface(tela);
+    SDL_Quit();
+
+    return 0;
+
+}

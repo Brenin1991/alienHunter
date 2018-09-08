@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1527802566 source:c:\users\breno\desktop\arquivos\space metal\spacemetal\main.cpp
+	<SDL.h>
+	<SDL_opengl.h>
+	<stdio.h>
+	<SDL_image.h>
+	"string"
+	<SDL_mixer.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<windows.h>
+
+1534421571 source:c:\users\breno\desktop\arquivos\space metal\alien hunter\main.cpp
+	<SDL.h>
+	<SDL_opengl.h>
+	<stdio.h>
+	<SDL_image.h>
+	"string"
+	<SDL_mixer.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<windows.h>
+
+1527869571 source:c:\users\breno\desktop\arquivos\space metal\alien hunter\resource.rc
+
+1527869571 source:d:\arquivos\space metal\alien hunter\resource.rc
+
+1534421571 source:c:\users\breno\desktop\arquivos\space metal\alien hunter project\alien hunter\main.cpp
+	<SDL.h>
+	<SDL_opengl.h>
+	<stdio.h>
+	<SDL_image.h>
+	"string"
+	<SDL_mixer.h>
+	<stdlib.h>
+	<time.h>
+	<SDL_ttf.h>
+	<windows.h>
+
+1527869571 source:c:\users\breno\desktop\arquivos\space metal\alien hunter project\alien hunter\resource.rc
+
