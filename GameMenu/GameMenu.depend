@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1527996768 source:c:\users\breno\desktop\arquivos\space metal\gamemenu\gamemenu\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	"conio2.c"
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+	"mmsystem.h"
+
+1381609552 c:\users\breno\desktop\arquivos\space metal\gamemenu\gamemenu\conio2.c
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+
+1527815754 c:\users\breno\desktop\arquivos\space metal\gamemenu\gamemenu\mmsystem.h
+
+1527869893 source:c:\users\breno\desktop\arquivos\space metal\gamemenu\gamemenu\resource.rc
+
+1527996768 source:c:\users\breno\desktop\arquivos\space metal\alien hunter project\gamemenu\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	"conio2.c"
+	<windows.h>
+	<stdlib.h>
+	<locale.h>
+	"mmsystem.h"
+
+1381609552 c:\users\breno\desktop\arquivos\space metal\alien hunter project\gamemenu\conio2.c
+	<cstdlib>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+
+1527815754 c:\users\breno\desktop\arquivos\space metal\alien hunter project\gamemenu\mmsystem.h
+
+1527869893 source:c:\users\breno\desktop\arquivos\space metal\alien hunter project\gamemenu\resource.rc
+

@@ -1,0 +1,2 @@
+#define ICON_NAME 0 //Definimos o identificador para o recurso ICON_NAME
+ICON_NAME ICON "ovni.ico"
