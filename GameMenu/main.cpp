@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include <iostream>
 #include<conio.h>
-#include"conio2.c"
+#include"includes/conio2.c"
 #include<windows.h>
 #include<stdlib.h>
 #include <locale.h>
-#include "mmsystem.h"
+#include "includes/mmsystem.h"
 
 #define acima 80
 #define abaixo 72
@@ -13,7 +13,7 @@
 
 /*
 
-    BR3N0 C4MP05 R1B3IR0
+    HARD ROCK STUDIO
 
 */
 
@@ -32,6 +32,7 @@ keybd_event(VK_RETURN,0x1c,0,0);
 keybd_event(VK_RETURN,0x1c,KEYEVENTF_KEYUP,0);
 keybd_event(VK_MENU,0x38,KEYEVENTF_KEYUP,0);
 }
+
 //Função que remove o cursor do console
 void HideCursor(){
    HANDLE consoleHandle = GetStdHandle(STD_OUTPUT_HANDLE);
@@ -133,7 +134,7 @@ void Options_Menu(int X,int Y){
 	printxy(X, Y++,"     BACK WITHOUT SAVE");
 	printxy(X, Y++,"     BACK AND SAVE");
     printxy(X, Y++,"                                ");
-    textcolor(WHITE); printxy(35, 28,"® 2017 - BR3N0 C4MP05 R1B3IR0");
+    textcolor(WHITE); printxy(35, 28,"® 2017 - HARD ROCK STUDIO");
 }
 
 //Função Escolha
@@ -295,7 +296,7 @@ void Menu(int X,int Y){
         cont += 1;
     }while(c != EOF);
     fclose(fp);
-    textcolor(WHITE); printxy(35, 28,"® 2017 - BR3N0 C4MP05 R1B3IR0");
+    textcolor(WHITE); printxy(35, 28,"® 2017 - HARD ROCK STUDIO");
 }
 
 //Função Score
@@ -341,8 +342,8 @@ void Creditos(){
     }
     textbackground(BLACK);
     textbackground(CYAN); textcolor(YELLOW); printxy(35,10,"CODE, GRAPHICS & DESIGN");
-    textbackground(BLACK); textcolor(WHITE); printxy(35,12,"BRENO CAMPOS RIBEIRO");
-    textbackground(BLACK); textcolor(LIGHT_RED); printxy(35,14,"BRENOCAMPOSR@GMAIL.COM");
+    textbackground(BLACK); textcolor(WHITE); printxy(35,12,"BRENO CAMPOS RIBEIRO FROM HARD ROCK STUDIO");
+    textbackground(BLACK); textcolor(LIGHT_RED); printxy(35,14,"WEBSITE: http://hardrockstudio.cf/");
     textbackground(CYAN); textcolor(YELLOW); printxy(35,16,"SFX & SOUND");
     textbackground(BLACK); textcolor(WHITE); printxy(35,18,"FREE SOUND EFFECTS 2017/ SOUND EFFECTS 2016/ BIT8MUSIC 2008");
     textbackground(BLACK); textcolor(WHITE); printxy(15,22,"THIS GAME IS THE FIRST WORK OF CONCLUSION OF THE YEAR OF THE 2017 'IT' COURSE.");
