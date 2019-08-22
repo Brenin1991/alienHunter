@@ -1,7 +1,7 @@
 # AlienHunter
 __Version:__ _1.2_
 
-[Official website](https://drive.google.com/open?id=1d7JEpMx4wOuv8DHfB9keb8MvhcNU2gsK)
+[Official website]()
 
 __2017 - Hard Rock Studio__
 
@@ -17,7 +17,7 @@ __2017 - Hard Rock Studio__
 ## Presentation
 Project __AlienHunter__, an arcade game made in C++ using the SDL library.
 
-[Complete presentation (PDF)](https://drive.google.com/open?id=10zD6LBiUUX7oDZ-isjOPX65HvNdgtuop)
+[Complete presentation (PDF)]()
 
 ## License
 #### [GNU GENERAL PUBLIC LICENSE](https://drive.google.com/open?id=11ZTUlB6qpoKk_XgD6_dtKntQOfCsuQj8)
@@ -25,15 +25,14 @@ Project __AlienHunter__, an arcade game made in C++ using the SDL library.
 ## Prerequisites
 #### Development
 * [SDL 1.2.15](https://www.libsdl.org/)
-* [SQLite](https://www.sqlite.org/index.html)
 
 #### Documentation
-* [DOCs](https://drive.google.com/open?id=1d7JEpMx4wOuv8DHfB9keb8MvhcNU2gsK)
+* [DOCs]()
 
 ## Authorship and contributions
-#### 2017 - Hard Rock Studio - [Official Website](https://hardrockstudio.github.io/HardRockStudio-Website/)
+#### 2017 - Hard Rock Studio - [Official Website]()
 
-## Sound credits :)
+## Sound credits :
 * Theme / SoundEffectsFactory / 2015
 * Open / Brand Name Audio / 2016
 * Enter / Brand Name Audio / 2016
