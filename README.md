@@ -39,7 +39,7 @@ Project __AlienHunter__, an arcade game made in C++ using the SDL library.
 * [DOCs]()
 
 #### Download
-* [Executable (.exe)](https://drive.google.com/open?id=1FP47tFF2mMHvEiDPcmu-jfQCFeKv0a6_)
+* [Executable (Windows)](https://drive.google.com/open?id=1FP47tFF2mMHvEiDPcmu-jfQCFeKv0a6_)
 
 ## Authorship and contributions
 #### 2017 - Hard Rock Studio - [Official Website]()
