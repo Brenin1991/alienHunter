@@ -19,15 +19,27 @@ Project __AlienHunter__, an arcade game made in C++ using the SDL library.
 
 [Complete presentation (PDF)]()
 
+![](https://drive.google.com/uc?id=1nMbHOBRAid5IAwkqCGt96Czs3mcmdn6M)
+![](https://drive.google.com/uc?id=1elVQ0scD7u1PO_MpN901Lkjs2rK1WbuN)
+![](https://drive.google.com/uc?id=1LCvxh32fbvtyrWb-HgXWsme05UBykKGH)
+
 ## License
 #### [GNU GENERAL PUBLIC LICENSE](https://drive.google.com/open?id=11ZTUlB6qpoKk_XgD6_dtKntQOfCsuQj8)
 
 ## Prerequisites
 #### Development
 * [SDL 1.2.15](https://www.libsdl.org/)
+* [Code::Blocks IDE](http://www.codeblocks.org/)
+
+## Installation
+#### Development
+* [Using SDL with Code::Blocks](http://wiki.codeblocks.org/index.php/Using_SDL_with_Code::Blocks)
 
 #### Documentation
 * [DOCs]()
+
+#### Download
+* [Executable (.exe)](https://drive.google.com/open?id=1FP47tFF2mMHvEiDPcmu-jfQCFeKv0a6_)
 
 ## Authorship and contributions
 #### 2017 - Hard Rock Studio - [Official Website]()
