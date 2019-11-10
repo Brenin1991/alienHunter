@@ -9,8 +9,9 @@ __2017 - Hard Rock Studio__
 * Presentation
 * license
 * Prerequisites
-* Documentation
 * Installation
+* Documentation
+* Download
 * Authorship and contributions
 * Sound credits
 
@@ -39,7 +40,7 @@ Project __AlienHunter__, an arcade game made in C++ using the SDL library.
 * [DOCs]()
 
 #### Download
-* [Executable (Windows)](https://drive.google.com/open?id=1Pu8-yt9uKiHALe-sOA3lgEXHZfI5_3Tm)
+* [Executable (Windows)](http://www.mediafire.com/file/fnw3cuywv7ftua0/AlienHunter.zip/file)
 
 ## Authorship and contributions
 #### 2017 - Hard Rock Studio - [Official Website]()
